@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgemis=self.webpackChunkgemis||[]).push([[250],{1250:(s,u,n)=>{n.r(u),n.d(u,{GerenciaModule:()=>c});var o=n(8583),a=n(7716);let c=(()=>{class e{}return e.\u0275fac=function(r){return new(r||e)},e.\u0275mod=a.oAB({type:e}),e.\u0275inj=a.cJS({imports:[[o.ez]]}),e})()}}]);
